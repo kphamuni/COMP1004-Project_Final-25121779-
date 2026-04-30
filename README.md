@@ -2,6 +2,8 @@
 Application for COMP1004 module
 
 This is the README file for my AutoNest application.<br>
+<br>
+
 This project is a Single Page Application which is targeted towards car enthusiasts.<br>
 It is a simple index which allows for users to browse through a range of more enthusiast car brands and models.<br>
 It includes a basic comparison feature which allows users to select two vehicles and compare their stats and performance metrics.<br>
