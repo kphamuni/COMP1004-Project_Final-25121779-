@@ -1,8 +1,9 @@
 # COMP1004-Project_Final-25121779-
 Application for COMP1004 module
 
-This is the README file for my AutoNest application.<br>
+This is the README file for my AutoNest application.
 <br>
+
 
 This project is a Single Page Application which is targeted towards car enthusiasts.<br>
 It is a simple index which allows for users to browse through a range of more enthusiast car brands and models.<br>
